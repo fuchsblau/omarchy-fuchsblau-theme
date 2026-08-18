@@ -1,0 +1,25 @@
+# Editor / backup cruft
+*.bak.*
+*.swp
+*~
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Personal / machine-local — never publish
+.omarchy-project.conf
+.remember/
+
+# Fuchslicht working files (generation candidates) — finals live in backgrounds/
+candidates/
+
+# Chrome-extension build relics — NOT part of the Omarchy theme spec.
+# Omarchy >= 4.0 generates the browser color from colors.toml.
+# *.pem is a private signing key and must never be committed.
+chrome-theme/
+chrome-theme.crx
+chrome-theme.pem
+*.crx
+*.pem
+*.key

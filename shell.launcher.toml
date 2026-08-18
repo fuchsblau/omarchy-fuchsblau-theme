@@ -1,0 +1,4 @@
+# fuchsblau · Launcher-Overlay — wie [menu]: Hairline-Rahmen, Auswahl
+# in teal. Der Scrim bleibt Buehne (background, Default).
+[launcher]
+border = "#3a4360"   # hairline

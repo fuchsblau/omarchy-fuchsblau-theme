@@ -1,0 +1,57 @@
+# fuchsblau · btop palette
+# Auto-generierbar aus colors.toml; hier explizit gepflegt, weil
+# btop-Gradienten gerne in Cyan/Magenta abdriften, was die drei
+# gezaehlten Akzentstellen aufweicht. Alle Gradienten enden auf
+# fuchs-orange — die einzige sanktionierte Warnfarbe.
+
+theme[main_bg]="#1a2234"
+theme[main_fg]="#cdd6ee"
+theme[title]="#cdd6ee"
+theme[hi_fg]="#4dd6c8"
+theme[selected_bg]="#4dd6c8"
+theme[selected_fg]="#1a2234"
+theme[inactive_fg]="#4e5784"
+theme[graph_text]="#a8b1d2"
+theme[meter_bg]="#232c44"
+theme[proc_misc]="#88aede"
+theme[cpu_box]="#3a4360"
+theme[mem_box]="#3a4360"
+theme[net_box]="#3a4360"
+theme[proc_box]="#3a4360"
+theme[div_line]="#3a4360"
+
+theme[temp_start]="#86c79c"
+theme[temp_mid]="#f0a060"
+theme[temp_end]="#e89a8a"
+
+theme[cpu_start]="#4dd6c8"
+theme[cpu_mid]="#88aede"
+theme[cpu_end]="#f0a060"
+
+theme[free_start]="#86c79c"
+theme[free_mid]="#4dd6c8"
+theme[free_end]="#88aede"
+
+theme[cached_start]="#88aede"
+theme[cached_mid]="#4dd6c8"
+theme[cached_end]="#4e5784"
+
+theme[available_start]="#4dd6c8"
+theme[available_mid]="#88aede"
+theme[available_end]="#f0a060"
+
+theme[used_start]="#86c79c"
+theme[used_mid]="#f0a060"
+theme[used_end]="#e89a8a"
+
+theme[download_start]="#4dd6c8"
+theme[download_mid]="#88aede"
+theme[download_end]="#f0a060"
+
+theme[upload_start]="#86c79c"
+theme[upload_mid]="#f0a060"
+theme[upload_end]="#e89a8a"
+
+theme[process_start]="#4dd6c8"
+theme[process_mid]="#88aede"
+theme[process_end]="#f0a060"

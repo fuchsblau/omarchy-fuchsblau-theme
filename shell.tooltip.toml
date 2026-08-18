@@ -1,0 +1,4 @@
+# fuchsblau · Tooltips — Struktur, nicht Signal: Hairline statt
+# foreground-Rahmen ("Tiefe entsteht durch Hairline, nicht durch Licht").
+[tooltip]
+border = "#3a4360"   # hairline

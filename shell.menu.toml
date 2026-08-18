@@ -1,0 +1,5 @@
+# fuchsblau · Menue-Karten (inkl. Clipboard, Emoji) — Hairline-Rahmen
+# statt foreground; die Auswahl spricht weiter teal (selected-text =
+# accent, Default). Struktur = hairline, aktiv = teal.
+[menu]
+border = "#3a4360"   # hairline

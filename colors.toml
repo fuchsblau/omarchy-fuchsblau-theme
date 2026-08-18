@@ -1,0 +1,53 @@
+# fuchsblau · omarchy-theme
+# Charter v0.2 — Eine Marke aus Verzicht. Dark only. Drei gezaehlte Akzente.
+#
+# Semantische Palette nach Omarchy-Quattro-Spec (>= 4.0). Saemtliche
+# App-Configs (Terminals, btop, neovim, vscode, shell, hyprland, ...)
+# werden aus diesen Tokens generiert. Die Marke kennt acht Tokens;
+# die uebrigen Werte sind ANSI-Pflichtslots und werden auf L≈0.78 C≈0.09
+# in oklch gehalten — gleiche Helligkeit, gleiche Saettigung, nur die
+# Hue rotiert. So bleibt die Disziplin der drei gezaehlten Stellen
+# (teal, fuchs, accent-mut) erkennbar, auch wo der Terminal-Standard
+# Rot und Gruen verlangt.
+
+mode = "dark"
+
+# ── Brand core ──────────────────────────────────────────────
+accent               = "#4dd6c8"   # fuchsblau · teal — Identitaet, Focus, Signet
+selection            = "#4dd6c8"   # teal — Auswahl ist Bezeichner
+selection_foreground = "#1a2234"   # bg invertiert auf teal
+muted                = "#4e5784"   # accent-mut — comments, muted content
+hairline             = "#3a4360"   # Struktur-Hairline — Boxen, Karten, Separatoren
+                                   # (btop-Boxen, shell.*.toml-Borders; kein Akzent)
+
+background           = "#1a2234"   # fuchsblau · tief — Buehne
+dark_background      = "#141a27"   # Buehne −25 % — Randzonen
+darker_background    = "#0d111a"   # Buehne −50 % — Scrims
+lighter_background   = "#232c44"   # bg-elev — subtle surface, cursor-line bg
+
+foreground           = "#cdd6ee"   # body text · AAA auf bg
+dark_foreground      = "#4e5784"   # accent-mut Echo — comments
+light_foreground     = "#a8b1d2"   # subtext — graph labels, secondary copy
+bright_foreground    = "#e0e8ff"   # peak white — zugleich Terminal-Cursor (Quattro-Vorgabe)
+
+# ── ANSI-Pflichtslots ───────────────────────────────────────
+red     = "#e89a8a"   # errors, diff minus
+yellow  = "#f0a060"   # fuchs — types, warnings, "jetzt"
+orange  = "#f0a060"   # fuchs — die einzige sanktionierte Warnfarbe
+green   = "#86c79c"   # strings, success, diff plus
+cyan    = "#4dd6c8"   # teal — operators, code spans
+blue    = "#88aede"   # functions, links, info
+magenta = "#c79dc9"   # keywords
+brown   = "#785030"   # fuchs −50 % — aether-Pflichtslot
+
+bright_red     = "#f0ada0"
+bright_yellow  = "#f4b478"
+bright_green   = "#9cd5ae"
+bright_cyan    = "#6fdfd0"
+bright_blue    = "#a0bee6"   # accent-hover
+bright_magenta = "#d7afda"
+
+# ── Hyprland border tokens ──────────────────────────────────
+# Aktiv folgt accent (teal, Template-Fallback); inaktiv = accent-mut
+# als Hairline. Auch die Shell ([hyprland]-Sektion) liest diese Tokens.
+hyprland_inactive_border = "rgba(4e578499)"

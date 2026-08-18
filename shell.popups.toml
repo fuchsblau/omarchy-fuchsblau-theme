@@ -1,0 +1,6 @@
+# fuchsblau · OSD & Bar-Flyouts — Erbe von swayosd.css:
+# "Hairline plus zwei Token-Farben. Wer das aufpoliert, schreibt eine ADR."
+# Fortschritt/Fokus bleibt teal (accent, Default).
+[popups]
+border       = "#3a4360"   # hairline
+border-width = 1
