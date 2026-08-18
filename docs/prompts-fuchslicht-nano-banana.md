@@ -1,7 +1,7 @@
-# Fuchslicht — Prompts für Nano Banana Pro
+# fuchslicht — Prompts für Nano Banana Pro
 
 **Modell:** `gemini-3-pro-image` (Nano Banana Pro) · Gemini API oder AI Studio
-**Basis:** [Briefing Fuchslicht-Serie](briefing-fuchslicht-serie.md) · Stand 2026-08-18
+**Basis:** [Briefing fuchslicht-Serie](briefing-fuchslicht-serie.md) · Stand 2026-08-18
 
 ## Einstellungen (alle Motive)
 

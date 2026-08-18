@@ -1,4 +1,4 @@
-# Fuchslicht — Background-Briefing
+# fuchslicht — Background-Briefing
 
 **Projekt:** Omarchy-Theme „fuchsblau" · Background-Serie (3 Motive)
 **Empfänger:** Prompt Engineering — Erstellung der Bildprompts
