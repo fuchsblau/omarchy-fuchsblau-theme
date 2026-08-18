@@ -1,6 +1,6 @@
 # Fuchslicht — Background-Briefing
 
-**Projekt:** Omarchy-Theme „Fuchsblau" · Background-Serie (3 Motive)
+**Projekt:** Omarchy-Theme „fuchsblau" · Background-Serie (3 Motive)
 **Empfänger:** Prompt Engineering — Erstellung der Bildprompts
 **Auftraggeber:** Matthias (Theme-Maintainer)
 **Stand:** 2026-08-18 · abgestimmt im Briefing-Interview
@@ -9,13 +9,13 @@
 
 ## 1. Auftrag
 
-Drei neue Desktop-Backgrounds als **zusammenhängende Serie** für das Omarchy-Theme Fuchsblau. Die Serie wird die neue visuelle Signatur des Themes und übernimmt die Default-Position (das erste Bild ist das, was jeder Nutzer beim Aktivieren des Themes sieht — und der Kandidat für den Galerie-Screenshot). Der bisherige Bestand bleibt als Alternative erhalten.
+Drei neue Desktop-Backgrounds als **zusammenhängende Serie** für das Omarchy-Theme fuchsblau. Die Serie wird die neue visuelle Signatur des Themes und übernimmt die Default-Position (das erste Bild ist das, was jeder Nutzer beim Aktivieren des Themes sieht — und der Kandidat für den Galerie-Screenshot). Der bisherige Bestand bleibt als Alternative erhalten.
 
 Die strenge Charter des Themes („Eine Marke aus Verzicht", bisher fast monochrome Verläufe) wird für diese Serie **bewusst aufgeweicht**: Es entstehen echte Motive, keine Solid-Color-Flächen. Die Farbdisziplin bleibt dabei streng (siehe Abschnitt 5).
 
 ## 2. Das Theme in Kürze
 
-Fuchsblau ist ein dunkles Omarchy/Hyprland-Theme (dark only). Die Charter zählt drei Akzente; alles andere ist eine Blau-Rampe. Der Desktop soll mit Bar, Terminal und Fenstern **wie aus einem Guss** wirken — die Backgrounds sind die Bühne dahinter.
+fuchsblau ist ein dunkles Omarchy/Hyprland-Theme (dark only). Die Charter zählt drei Akzente; alles andere ist eine Blau-Rampe. Der Desktop soll mit Bar, Terminal und Fenstern **wie aus einem Guss** wirken — die Backgrounds sind die Bühne dahinter.
 
 | Rolle | Hex | Verwendung im Bild |
 |---|---|---|
